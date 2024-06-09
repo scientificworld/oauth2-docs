@@ -1,0 +1,57 @@
+{
+    "_supportedLanguages": [
+        "English", "简体中文"
+    ],
+    "indexPage": {
+        "English": "Index",
+        "简体中文": "首页"
+    },
+    "docAndGuidePage": {
+        "English": "API Docs",
+        "简体中文": "接口文档"
+    },
+    "languageChoose": {
+        "English": "Languages",
+        "简体中文": "语言"
+    },
+    "beforeStart": {
+        "English": "Before Start",
+        "简体中文": "开始之前"
+    },
+    "apiInfo": {
+        "English": "Authorization Flow",
+        "简体中文": "授权流程"
+    },
+    "changeLog": {
+        "English": "Changelog",
+        "简体中文": "更新日志"
+    },
+    "indexPageTitle": {
+        "English": "Koishi514 OAuth2 System Integration Guide",
+        "简体中文": "Koishi514 OAuth2 系统接入指南"
+    },
+    "indexPageDescription": {
+        "English": "With just a few simple steps, you can easily access information about users on our system, or authenticate through our platform.<br>Note: <strong>The system is still in Alpha phase, the API may change at any time!</strong>",
+        "简体中文": "仅需简单的几步，就能轻松获取我们系统上用户的信息，或通过我们的平台进行身份验证。<br>注意：<strong>该系统还处在 Alpha 阶段，接口随时可能会变动！</strong>"
+    },
+    "indexPageEnterGitHubBtn": {
+        "English": "Enter GitHub page of this document",
+        "简体中文": "转到 GitHub 页面"
+    },
+    "bottomInformation": {
+        "English": "The template for this document was modified from <a href=\"https://bbg.nekomoe.xyz\">BBG</a> documentation. The illustrations on the page were drawn by <a href=\"https://www.pixiv.net/users/4428441\">黒野猫丸</a>.",
+        "简体中文": "此文档的模板由 <a href=\"https://bbg.nekomoe.xyz\">BBG</a> 文档修改而来。页面上的插图由 <a href=\"https://www.pixiv.net/users/4428441\">黒野猫丸</a> 绘制。"
+    },
+    "pathOfBeforeStart": {
+        "English": "en/before_start.md",
+        "简体中文": "zh-cn/before_start.md"
+    },
+    "pathOfApiInfo": {
+        "English": "en/API/authorize.md",
+        "简体中文": "zh-cn/API/authorize.md"
+    },
+    "pathOfChangeLog": {
+        "English": "en/CHANGELOG.md",
+        "简体中文": "zh-cn/CHANGELOG.md"
+    }
+}
