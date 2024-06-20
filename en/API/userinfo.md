@@ -15,6 +15,7 @@ If successful, a JSON-encoded response will be returned, which may contain the f
 | email | The E-mail address of the user |
 | avatar | The URL of the user's avatar |
 | nickname | The nickname of the user |
+| register\_at | The UNIX timestamp of user registration time |
 
 The openid token contains the following fields:
 

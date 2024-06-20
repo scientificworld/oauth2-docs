@@ -15,6 +15,7 @@
 | email | 用户的电子邮箱地址 |
 | avatar | 用户头像的 URL |
 | nickname | 用户的昵称 |
+| register\_at | 用户注册时间的 UNIX 时间戳 |
 
 openid 令牌内包含如下字段：
 
